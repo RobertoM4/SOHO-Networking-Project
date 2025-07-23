@@ -31,3 +31,5 @@ The design includes:
 
 ## Notes
 This lab was created as part of my technical training and is anonymized for portfolio purposes.
+
+📄 Full project documentation available [here](Contoso-network-design.docx) (Word document)
